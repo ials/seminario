@@ -3,7 +3,7 @@
 
 Este es un curso que se dictará en dos modalidades:
 1. Virtual:  Agosto 28 -  Septiembre 30  
-2. Presencial: Octubre 1 - Diciembre 13  (Miércoles 9-11 / Jueves 9-13)
+2. Presencial: Octubre 1 - Diciembre 13  (Martes 2:00 pm - 8:00 pm)
 
 ## Semana 1  Agosto 26 - Agosto 30
 
@@ -37,47 +37,47 @@ Due on 27.09.2019 at 12:00 pm
 
 ## Semana 6 - Septiembre 30 - Octubre 4
 
-- Tópicos:     
+- Tópicos:     Perspectiva conceptual de la percepción remota
 
 ## Semana 7 - Octubre 7 - Octubre 11
 
-- Tópicos:   
+- Tópicos:   Técnicas y métodos avanzados de procesamiento de imágenes
  
 ## Semana 8 - Octubre 14 - Octubre 18
 
-- Tópicos:   
+- Tópicos:   Corrección radiométrica de imágenes
 
 ## Semana 9 - Octubre 21 - Octubre 25
 
-- Tópicos:   
+- Tópicos:   Corrección geométrica de imágenes
  
 ## Semana 10 - Octubre 28 - Noviembre 1
 
-- Tópicos:   
+- Tópicos:   Transformaciones espectrales
 
 ## Semana 11 - Noviembre 4 - Noviembre 8
 
-- Tópicos:   
+- Tópicos:   Percepción Remota de la Vegetación 1
 
 ## Semana 12 - Noviembre 11 - Noviembre 15
 
-- Tópicos:  
+- Tópicos:  Percepción Remota de la Vegetación 2
 
 ## Semana 13 - Noviembre 18 - Noviembre 22
 
-- Tópicos:  
+- Tópicos:  Percepción Remota de la Vegetación 3
 
 ## Semana 14 - Noviembre 25 - Noviembre 29
 
-- Tópicos: 
+- Tópicos: Percepción Remota de Recursos Hídricos 1
 
 ## Semana 15 - Diciembre 2 - Diciembre 6
 
-- Tópicos: 
+- Tópicos: Percepción Remota de Recursos Hídricos 2
 
 ## Semana 16 - Diciembre 6 - Diciembre 10
  
-- Tópicos: 
+- Tópicos: Percepción Remota de Recursos Hídricos 3
 
   
 
