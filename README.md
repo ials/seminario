@@ -57,6 +57,7 @@ Due on 27.09.2019 at 12:00 pm
 
 ## Semana 11 - Noviembre 4 - Noviembre 8
 
+- First examination: 05.11.2019
 - Tópicos:   Percepción Remota de la Vegetación 1
 
 ## Semana 12 - Noviembre 11 - Noviembre 15
@@ -76,8 +77,11 @@ Due on 27.09.2019 at 12:00 pm
 - Tópicos: Percepción Remota de Recursos Hídricos 2
 
 ## Semana 16 - Diciembre 6 - Diciembre 10
+
+Second examination: 07.12.2019
  
-- Tópicos: Percepción Remota de Recursos Hídricos 3
+Submission of second report: Image analysis using GEE
+Due on 12.12.2019 at 12:00 pm
 
   
 
