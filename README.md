@@ -11,7 +11,7 @@ Este es un curso que se dictará en dos modalidades:
   - Session 0.  [Course Introduction](https://ials.github.com/pra/pra_S0.html)
 
 - Práctica:
-  - Lab 0    [Getting started with RPubs](https://rpubs.com/about/getting-started
+  - Lab 0    [Getting started with RPubs](https://rpubs.com/about/getting-started)
   - Lab 1    [Introduction to Remote Sensing Image Analysis with R](https://rspatial.org/rs/1-introduction.html) 
     
 ## Semana 2 - Septiembre 2 - Septiembre 6
