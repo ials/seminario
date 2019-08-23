@@ -1,7 +1,7 @@
 # Bienvenidos al curso Seminario de Investigación II
 # UNAL - 2019 - Segundo Período Académico 
 
-Este es un curso que se dictará en dos modalidades:
+Este es un curso que se dictará en dos etapas:
 1. Virtual:  Agosto 28 -  Septiembre 30  
 2. Presencial: Octubre 1 - Diciembre 13  (Martes 2:00 pm - 8:00 pm)
 
@@ -13,7 +13,7 @@ Este es un curso que se dictará en dos modalidades:
 - Práctica:
   Students think & start writing first chapter of the Master Thesis
 
-## Semana 2 a Semana 6 - Septiembre 2 - Septiembre 6
+## Semana 2 - Septiembre 2 - Septiembre 6
 
 - Práctica:
   Students continue writing first chapter of the Master Thesis
@@ -60,7 +60,7 @@ Este es un curso que se dictará en dos modalidades:
 ## Semana 10 - Octubre 28 - Noviembre 1
 
 - Práctica:
-  Students revise second chapter of the Master Thesis
+  Students revise & proofread second chapter of the Master Thesis
 
 ## Semana 11 - Noviembre 4 - Noviembre 8
 
