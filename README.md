@@ -3,7 +3,7 @@
 
 Este es un curso que se dictará en dos etapas:
 1. Virtual:  Agosto 28 -  Septiembre 30  
-2. Presencial: Octubre 1 - Diciembre 13  (Martes 2:00 pm - 8:00 pm)
+2. Presencial: Octubre 1 - Diciembre 13  (Jueves 2:00 pm - 8:00 pm)
 
 ## Semana 1  Agosto 26 - Agosto 30
 
@@ -36,8 +36,8 @@ Este es un curso que se dictará en dos etapas:
 ## Semana 6 - Septiembre 30 - Octubre 4
 
 - First face-to-face class 
-- Students present the first chapter of the Master Thesis
-- Students revise feedback on first chapter
+- Students present the first chapter of the Master Thesis 
+- Students respond to  first chapter's feedback 
 - Students plan second iteration of first chapter
 
 ## Semana 7 - Octubre 7 - Octubre 11
@@ -65,7 +65,7 @@ Este es un curso que se dictará en dos etapas:
 ## Semana 11 - Noviembre 4 - Noviembre 8
 
 - Students present the second chapter of the Master Thesis
-- Students revise feedback on second chapter
+- Students respond to  second chapter's feedback
 - Students plan second iteration of second chapter
 
 ## Semana 12 - Noviembre 11 - Noviembre 15
@@ -93,7 +93,7 @@ Este es un curso que se dictará en dos etapas:
 ## Semana 16 - Diciembre 6 - Diciembre 10
 
 - Students present the third chapter of the Master Thesis
-- Students revise feedback on third chapter
+- Students respond to third chapter's feedback
 - Students plan second iteration of third chapter
 
   
