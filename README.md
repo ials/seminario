@@ -8,35 +8,37 @@ Este es un curso que se dictará en dos etapas:
 ## Semana 1  Agosto 26 - Agosto 30
 
 - Presentación:
-  - Session 0.  [Course Introduction](https://ials.github.com/seminario/sem_S0.html)
+  - Session 0.  [Course Intro](https://ials.github.com/seminario/sem_S0.html)
+  - Session 0.  [Course Intro](https://tinyurl.com/y5hvb9o4)  **needs log in to Google Drive with unal e-mail account**
   
 - Práctica:
-  Students think & start writing first chapter of the Master Thesis
+  - Students think & start writing first chapter of the Master Thesis
+  - If you are an advanced student you can start with a different chapter (**any**)
 
 ## Semana 2 - Septiembre 2 - Septiembre 6
 
 - Práctica:
-  Students continue writing first chapter of the Master Thesis
+  Students continue writing first (or any) chapter of the Master Thesis
  
 ## Semana 3 - Septiembre 9 - Septiembre 13
 
 - Práctica:
-  Students continue writing first chapter of the Master Thesis
+  Students continue writing first (or any) chapter of the Master Thesis
 
 ## Semana 4 - Septiembre 16 - Septiembre 20
 
 - Práctica:
-  Students revise the first chapter of the Master Thesis
+  Students revise the first chapter (or any) of the Master Thesis
 
 ## Semana 5 - Septiembre 23 - Septiembre 27
 
 - Práctica:
-  Students  proofread the first chapter of the Master Thesis
+  Students  proofread the first chapter (or any) of the Master Thesis
 
 ## Semana 6 - Septiembre 30 - Octubre 4
 
 - First face-to-face class 
-- Students present the first chapter of the Master Thesis 
+- All students present the first chapter of the Master Thesis 
 - Students respond to  first chapter's feedback 
 - Students plan second iteration of first chapter
 
