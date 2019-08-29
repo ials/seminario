@@ -8,8 +8,8 @@ Este es un curso que se dictará en dos etapas:
 ## Semana 1  Agosto 26 - Agosto 30
 
 - Presentación:
-  - Session 0.  [Course Intro](https://ials.github.com/seminario/sem_S0.html)
-  - Session 0.  [Course Intro](https://tinyurl.com/y5hvb9o4)  **needs log in to Google Drive with unal e-mail account**
+  - Session 0.  [Course Intro - Slides](https://ials.github.com/seminario/sem_S0.html)
+  - Session 0.  [Course Intro - Slides + Video](https://tinyurl.com/y5hvb9o4)  (**needs log in to Google Drive with unal e-mail account**)
   
 - Práctica:
   - Students think & start writing first chapter of the Master Thesis
