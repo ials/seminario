@@ -47,6 +47,8 @@ Este es un curso que se dictará en dos etapas:
 
 - Lecturer explains what to write in second chapter of the Master Thesis:
   - [What is a literature review?](https://student.unsw.edu.au/literature-review)
+  
+- [Advice for writing a thesis (based on what examiners do)](https://www.tandfonline.com/doi/full/10.1080/23265507.2017.1300862)(Golding, 2016)
 
 - Práctica:
   Students start writing second chapter of the Master Thesis
