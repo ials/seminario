@@ -50,7 +50,8 @@ Este es un curso que se dictará en dos etapas:
   - [Writing A Literature Review For An Applied Master's Degree](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1022&context=od_working_papers)(Kaminstein, 2017)
   
 - Práctica:
-  Students start writing second chapter of the Master Thesis
+  *Seminario II*'s students start writing second chapter of their thesis
+  *Tesis*' students present the second chapter of their thesis
  
 ## Semana 8 - Octubre 14 - Octubre 18
 
