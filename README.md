@@ -47,13 +47,15 @@ Este es un curso que se dictará en dos etapas:
 
 - Lecturer explains what to write in second chapter of the Master Thesis:
   - [What is a literature review?](https://student.unsw.edu.au/literature-review)
+  - [Writing A Literature Review For An Applied Master's Degree](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1022&context=od_working_papers)(Kaminstein, 2017)
   
-- [Advice for writing a thesis (based on what examiners do)](https://www.tandfonline.com/doi/full/10.1080/23265507.2017.1300862)(Golding, 2016)
-
 - Práctica:
   Students start writing second chapter of the Master Thesis
  
 ## Semana 8 - Octubre 14 - Octubre 18
+
+- Lecturer explains how examiners review a master thesis:
+  - [Advice for writing a thesis (based on what examiners do)](https://www.tandfonline.com/doi/full/10.1080/23265507.2017.1300862)(Golding, 2016)
 
 - Práctica:
   Students continue writing second chapter of the Master Thesis
