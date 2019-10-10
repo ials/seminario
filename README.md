@@ -37,14 +37,16 @@ Este es un curso que se dictará en dos etapas:
 
 ## Semana 6 - Septiembre 30 - Octubre 4
 
-- First face-to-face class 
+- Lecturer explains what to write in first chapter of the Master Thesis:
+  [Introduction](https://student.unsw.edu.au/introductions)
 - All students present the first chapter of the Master Thesis 
 - Students respond to  first chapter's feedback 
 - Students plan second iteration of first chapter
 
 ## Semana 7 - Octubre 7 - Octubre 11
 
-- Lecturer explains what to write in second chapter of the Master Thesis
+- Lecturer explains what to write in second chapter of the Master Thesis:
+  [What is a literature review?](https://student.unsw.edu.au/literature-review)
 
 - Práctica:
   Students start writing second chapter of the Master Thesis
