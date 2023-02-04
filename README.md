@@ -1,109 +1,70 @@
 # Bienvenidos al curso Seminario de Investigación II
-# UNAL - 2019 - Segundo Período Académico 
+# UNAL - 2023 - Primer Período Académico 
 
-Este es un curso que se dictará en dos etapas:
-1. Virtual:  Agosto 28 -  Septiembre 30  
-2. Presencial: Octubre 1 - Diciembre 13  (Jueves 2:00 pm - 8:00 pm)
+Este es un curso que se dictará desde 06.02 hasta 29.05   (Lunes 2:00 pm - 8:00 pm)
 
-## Semana 1  Agosto 26 - Agosto 30
+## Semana 1  Febrero 6 - 11
 
-- Presentación:
-  - Session 0.  [Course Intro - Slides](https://ials.github.com/seminario/sem_S0.html)
-  - Session 0.  [Course Intro - Slides + Video](https://tinyurl.com/y5hvb9o4)  (**needs log in to Google Drive with unal e-mail account**)
-  
-- Práctica:
-  - Students think & start writing first chapter of the Master Thesis
-  - If you are an advanced student you can start with a different chapter (**any**)
+- Presentación  programa de la asignatura
+- Ejercicio práctico 
 
-## Semana 2 - Septiembre 2 - Septiembre 6
+## Semana 2 - Febrero 13 - 18
 
-- Práctica:
-  Students continue writing first (or any) chapter of the Master Thesis
  
-## Semana 3 - Septiembre 9 - Septiembre 13
+## Semana 3 - Febrero 20 - 25
 
-- Práctica:
-  Students continue writing first (or any) chapter of the Master Thesis
 
-## Semana 4 - Septiembre 16 - Septiembre 20
 
-- Práctica:
-  Students revise the first chapter (or any) of the Master Thesis
+## Semana 4 - Febrero 27 - Marzo 4
 
-## Semana 5 - Septiembre 23 - Septiembre 27
 
-- Práctica:
-  Students  proofread the first chapter (or any) of the Master Thesis
 
-## Semana 6 - Septiembre 30 - Octubre 4
+## Semana 5 - Marzo 6 - 11
 
-- Lecturer reminds what to write in first chapter of the Master Thesis:
-  - [Introduction](https://student.unsw.edu.au/introductions)
-- All students present the first chapter of the Master Thesis 
-- Students respond to  first chapter's feedback 
-- Students plan second iteration of first chapter
 
-## Semana 7 - Octubre 7 - Octubre 11
+## Semana 6 - Marzo 13 - 18
 
-- Lecturer explains what to write in second chapter of the Master Thesis:
-  - [What is a literature review?](https://student.unsw.edu.au/literature-review)
-  - [Writing A Literature Review For An Applied Master's Degree](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1022&context=od_working_papers)(Kaminstein, 2017)
-  
-- Práctica:
-  - *Seminario II*'s students start writing second chapter of their thesis
-  - *Tesis*' students present the second chapter of their thesis
+
+
+## Semana 7 - Marzo 20 - 25
+
+
  
-## Semana 8 - Octubre 14 - Octubre 18
+## Semana 8 - Marzo 27 - 31
 
-- Lecturer explains how examiners review a master thesis:
-  - [Advice for writing a thesis (based on what examiners do)](https://www.tandfonline.com/doi/full/10.1080/23265507.2017.1300862)(Golding, 2016)
 
-- Práctica:
-  Students continue writing second chapter of the Master Thesis
 
-## Semana 9 - Octubre 21 - Octubre 25
+## Semana 9 - Abril 10 - 15
 
-- Práctica:
-  Students continue writing second chapter of the Master Thesis
+
  
-## Semana 10 - Octubre 28 - Noviembre 1
+## Semana 10 - Abril 17 - 22
 
-- Práctica:
-  Students revise & proofread second chapter of the Master Thesis
 
-## Semana 11 - Noviembre 4 - Noviembre 8
 
-- Students present the second chapter of the Master Thesis
-- Students respond to  second chapter's feedback
-- Students plan second iteration of second chapter
+## Semana 11 - Abril 24 - 29
 
-## Semana 12 - Noviembre 11 - Noviembre 15
 
-- Lecturer explains what to write in third chapter of the Master Thesis
+## Semana 12 - Mayo  1 - 6
 
-- Práctica:
-  Students start writing third chapter of the Master Thesis
+**Esta semana no hay clase**
 
-## Semana 13 - Noviembre 18 - Noviembre 22
+## Semana 13 - Mayo 8
 
-- Práctica:
-  Students continue writing third chapter of the Master Thesis
+**Envío documentos sustentación - Primera jornada**
 
-## Semana 14 - Noviembre 25 - Noviembre 29
+## Semana 14 - Mayo 15
 
-- Práctica:
-  Students revise third chapter of the Master Thesis
+**Envío documentos sustentación - Segunda jornada**
 
-## Semana 15 - Diciembre 2 - Diciembre 6
+## Semana 15 - Mayo 22
 
-- Práctica:
-  Students proofread third chapter of the Master Thesis
+**Primera jornada de sustentación**
 
-## Semana 16 - Diciembre 6 - Diciembre 10
+## Semana 16 - Mayo 29
 
-- Students present the third chapter of the Master Thesis
-- Students respond to third chapter's feedback
-- Students plan second iteration of third chapter
+**Segunda jornada de sustentación**
+
 
   
 
