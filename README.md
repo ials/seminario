@@ -1,7 +1,7 @@
 # Bienvenidos al curso Seminario de Investigación II
 # UNAL - 2023 - Primer Período Académico 
 
-Este es un curso que se dictará desde 06.02 hasta 29.05   (Lunes 2:00 pm - 8:00 pm)
+Este es un curso que se dictará desde 06.02 hasta 29.05   (Lunes 2:00 pm - 6:00 pm)
 
 ## Semana 1  Febrero 6 - 11
 
