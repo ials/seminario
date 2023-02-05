@@ -2,7 +2,7 @@
 title: "Seminario de Investigación II"
 subtitle: "Sesión 0"
 author: "Ivan Lizarazo"
-date: "2020-03-02 (updated: `r Sys.Date()`)"
+date: "2022-02-05 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -41,10 +41,6 @@ This course gives you an opportunity to produce the first version of your thesis
 
 This is a process-oriented writing course that integrates reading, research, writing, and oral presentations. 
 
-As an alternative to writing your thesis, you may focus on writing a research article. However, **I do not encourage to attempt both challenges because the chances of you failing are high**.  
-
-In any case, you must compile a portfolio with all the drafts, notes about the texts read, my feedback, your supervisor feedfack,  research proposal, literature review, class activities, and any written work done for your project.
-
 ---
 
 background-image: url(images/writing_skills.PNG)
@@ -53,12 +49,11 @@ background-position: 50% 90%
 
 ## Course Objectives (cont...)
 
-You will also present the results of each stage of your work to me and the other students in the course. Other members of the University community may be invited to the presentations. 
+You will present a manuscript with your thesis results  to an evaluator. 
 
 Your writing output is expected to conform to appropriate standards of scholarship. 
 
-Additionally, you will engage in a series of class activities aimed at helping you develop your  reading, research, writing, and presentation skills.
-
+You will engage in class activities to improve your  reading, research, writing, and presentation skills.
 
 
 ---
@@ -109,16 +104,6 @@ class: inverse, middle, center
   - First part: concepts, methods, examples
   - Second part: student presentations &   writing practicals
   
-- Compulsory assignments (100%):
-  - First iteration of **chapter 1** (Introduction)  -  **Printed document**
-     - __due on 30th March at 2:00  pm__
-    
-  - First iteration of  **chapter 2**  (Basic concepts & State of art) - **Printed document**
-     -  __due on 18th May   at 2:00  pm__
-    
-  - First iteration of **chapter 3**  (Data & Methods) - **Printed document**
-     - __due on 22th June  at 2:00  pm__
-
 ---
 class: inverse, middle, center
 
@@ -301,61 +286,16 @@ background-image: url(images/icon1.png)
 background-size: 100px
 background-position: 90% 10%
 
-## Write  your thesis introduction
+## Write  your manuscript abstract
 ========================================================
-### What type of information should you include in your introduction?
-
-In the introduction you are trying to do three main things:
-
-**Move 1** establish your territory (say what the topic is about)
-
-**Move 2** establish a niche  (say why there needs to be further research on your topic)
-
-**Move 3** introduce your research (formulate the problem; state research questions; make hyphotheses)
 
 
 ---
 
-background-image: url(images/icon1.png)
-background-size: 100px
-background-position: 90% 10%
+### Outcomes  
 
-# Stages in a thesis introduction
-========================================================
-
-1. state the general topic and give some background
-1. provide a review of the literature related to the topic
-1. define the terms and scope of the topic
-1. outline the current situation
-1. evaluate the current situation (advantages/ disadvantages) and identify the gap
-1. identify the importance of the proposed research
-1. state the research problem/ questions
-1. state the research aims and/or research objectives
-1. state the hypotheses
-1. outline the order of information in the thesis 
-1. outline the methodology (optional)
-
-
----
-
-background-image: url(images/icon1.jpg)
-background-size: 100px
-background-position: 90% 10%
-
-### Assignment 1  - Thesis Chapter 1
-========================================================
-
-Write the **first iteration** of Chapter 1 and prepare its corresponding presentation. 
-
-Bring to the class:
-- a printed copy of your chapter 1 
-- a ppt file of your presentation.
-
-__Due on 30th March at 2:00 pm__
-
-Make sure:
-- you follow the five steps explained above
-- the chapter is organized as explained above
+- Thesis's chapter 4
+- A manuscript to report thesis results
 
 ---
 
