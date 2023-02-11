@@ -12,14 +12,21 @@ Este es un curso que se dictará desde 06.02 hasta 29.05   (Lunes 2:00 pm - 6:00
 - [How to write a scientific abstract](https://drive.google.com/file/d/1hdG-5uHmMPwnhSUEQ-fQA1Z6wLRmMIUb/view?usp=sharing)
 
 - Ejercicio práctico:
-  -	Escriba el resumen de un manuscrito que reporta resultados de su tesis
+  -	Escriba el resumen de su manuscrito que reporta resultados parciales de su tesis
 
 - Trabajo independiente:
   -	Elabore el plan de trabajo de los dos productos de esta asignatura
 
 ## Semana 2 - Febrero 13 - 18 - Un método para publicar en ciencias de la información (Zelner et al., 2022)
 
-TBW
+
+- A guide to backward paper writing for the data sciences](https://drive.google.com/file/d/1lffk-LpQhmy5x5neQ8WANgFiwK_4TOZG/view?usp=sharing)
+
+- Ejercicio práctico:
+  -	Escriba el "bosquejo" de su manuscrito (en 500 palabras)
+
+- Trabajo independiente:
+  -	Redacte la introduction de su manuscrito
  
 ## Semana 3 - Febrero 20 - 25 - La importancia de una introducción convincente (Huemann  & Pesämaa, 2020)
 
