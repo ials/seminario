@@ -20,7 +20,7 @@ Este es un curso que se dictará desde 06.02 hasta 29.05   (Lunes 2:00 pm - 6:00
 ## Semana 2 - Febrero 13 - 18 - Un método para publicar en ciencias de la información (Zelner et al., 2022)
 
 
-- A guide to backward paper writing for the data sciences](https://drive.google.com/file/d/1lffk-LpQhmy5x5neQ8WANgFiwK_4TOZG/view?usp=sharing)
+- [A guide to backward paper writing for the data sciences](https://drive.google.com/file/d/1lffk-LpQhmy5x5neQ8WANgFiwK_4TOZG/view?usp=sharing)
 
 - Ejercicio práctico:
   -	Escriba el "bosquejo" de su manuscrito (en 500 palabras)
