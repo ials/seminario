@@ -23,10 +23,10 @@ Este es un curso que se dictará desde 06.02 hasta 29.05   (Lunes 2:00 pm - 6:00
 - [A guide to backward paper writing for the data sciences](https://drive.google.com/file/d/1lffk-LpQhmy5x5neQ8WANgFiwK_4TOZG/view?usp=sharing)
 
 - Ejercicio práctico:
-  -	Escriba el "bosquejo" de su manuscrito (en 500 palabras)
+  -	Escriba el "bosquejo" de su introducción (en 500 palabras)
 
 - Trabajo independiente:
-  -	Redacte la introduction de su manuscrito
+  -	Redacte la introducción de su manuscrito
  
 ## Semana 3 - Febrero 20 - 25 - La importancia de una introducción convincente (Huemann  & Pesämaa, 2020)
 
