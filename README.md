@@ -40,7 +40,7 @@ TBW
 
 TBW
 
-## Semana 6 - Marzo 13 - 18 - Escribir un manuscrito es un viaje en un viaje en una montaña rusa (Janke et al., 2020)
+## Semana 6 - Marzo 13 - 18 - Escribir un manuscrito es un viaje en una montaña rusa (Janke et al., 2020)
 
 TBW
 
