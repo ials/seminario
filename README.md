@@ -30,7 +30,15 @@ Este es un curso que se dictará desde 06.02 hasta 29.05   (Lunes 2:00 pm - 6:00
  
 ## Semana 3 - Febrero 20 - 25 - La importancia de una introducción convincente (Huemann  & Pesämaa, 2020)
 
-TBW
+- [How to Write Your Methods](https://plos.org/resource/how-to-write-your-methods/)
+- [The first impression counts](https://drive.google.com/file/d/1UUCB5sdbJoxUdEy7nK_ZBplZLV0WCvVZ/view?usp=sharing)
+
+- Ejercicio práctico:
+  - Traiga a la clase del 2o de febrero impresiones de las dos tareas (resumen e introduccion)
+  -	Revise el material que le sea asignado
+
+- Trabajo independiente:
+  -	Redacte la sección de métodos de su manuscrito
 
 ## Semana 4 - Febrero 27 - Marzo 4 - Ejemplo de un artículo de investigación en geomática (Hansman & Ring, 2019)
 
