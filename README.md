@@ -38,11 +38,22 @@ Este es un curso que se dictará desde 06.02 hasta 29.05   (Lunes 2:00 pm - 6:00
   -	Revise el material que le sea asignado
 
 - Trabajo independiente:
-  -	Redacte la sección de métodos de su manuscrito
+  - Elabore una nueva versión del resumen y la introducción de su manuscrito
+  -	Redacte la primera versión de datos y métodos de su manuscrito
 
 ## Semana 4 - Febrero 27 - Marzo 4 - Ejemplo de un artículo de investigación en geomática (Hansman & Ring, 2019)
 
-TBW
+- [A guide to reading research papers](https://www.scientifica.uk.com/neurowire/gradhacks-a-guide-to-reading-research-papers)
+-  Review of two articles relevant for researchers in geographic information science and technology
+
+- Ejercicio práctico:
+  - Lea los resúmenes que le sean asignados y sugiera los títulos correspondientes
+  -	Revise los avances del manuscrito que le sea asignado
+
+- Trabajo independiente:
+  -	Revise la sección de métodos de su manuscrito
+  - **Continúe desarrollando su trabajo experimental**
+
 
 ## Semana 5 - Marzo 6 - 11 - ¿Cómo reportar los resultados?   (Frees, 2011) 
 
