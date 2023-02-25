@@ -1,4 +1,4 @@
-# Bienvenidos al curso Seminario de Investigación II
+# Bienvenidos al curso Seminario de Investigación 
 # UNAL - 2023 - Primer Período Académico 
 
 Este es un curso que se dictará desde 06.02 hasta 29.05   (Lunes 2:00 pm - 6:00 pm)
@@ -41,7 +41,7 @@ Este es un curso que se dictará desde 06.02 hasta 29.05   (Lunes 2:00 pm - 6:00
   - Elabore una nueva versión del resumen y la introducción de su manuscrito
   -	Redacte la primera versión de datos y métodos de su manuscrito
 
-## Semana 4 - Febrero 27 - Marzo 4 - Ejemplo de un artículo de investigación en geomática (Hansman & Ring, 2019)
+## Semana 4 - Febrero 27 - Marzo 4 - Ejemplos de  artículos de investigación en geomática (Hansman & Ring, 2019)
 
 - [A guide to reading research papers](https://www.scientifica.uk.com/neurowire/gradhacks-a-guide-to-reading-research-papers)
 -  Review of two articles relevant for researchers in geographic information science and technology
