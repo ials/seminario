@@ -44,9 +44,10 @@ Este es un curso que se dictará desde 06.02 hasta 29.05   (Lunes 2:00 pm - 6:00
 ## Semana 4 - Febrero 27 - Marzo 4 - Ejemplos de  artículos de investigación en geomática (Hansman & Ring, 2019)
 
 - [A guide to reading research papers](https://www.scientifica.uk.com/neurowire/gradhacks-a-guide-to-reading-research-papers)
--  Review of two articles relevant for researchers in geographic information science and technology
+-  Review of two articles relevant for researchers in geography and geographic information science & technology
 
 - Ejercicio práctico:
+  - Traiga a la clase del 27 de febrero la nueva versión de su manuscrito (título, resumen, introduccion, datos & métodos)
   - Lea los resúmenes que le sean asignados y sugiera los títulos correspondientes
   -	Revise los avances del manuscrito que le sea asignado
 
