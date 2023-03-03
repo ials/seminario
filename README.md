@@ -58,7 +58,17 @@ Este es un curso que se dictará desde 06.02 hasta 29.05   (Lunes 2:00 pm - 6:00
 
 ## Semana 5 - Marzo 6 - 11 - ¿Cómo reportar los resultados?   (Frees, 2011) 
 
-TBW
+- Tópicos:
+  - ¿Cómo realizar la revisión de literatura?
+  - ¿Cómo reportar los resultados?
+  
+- Ejercicio práctico:
+  - Traiga a la clase del 6 de marzo la carpeta con todas las versiones de su manuscrito
+  -	Revise los avances del manuscrito que le sea asignado
+
+- Trabajo independiente:
+  -	Inicie la escritura de sus  resultados
+  - **Continúe desarrollando su trabajo experimental**
 
 ## Semana 6 - Marzo 13 - 18 - Escribir un manuscrito es un viaje en una montaña rusa (Janke et al., 2020)
 
