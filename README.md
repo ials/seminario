@@ -59,7 +59,7 @@ Este es un curso que se dictará desde 06.02 hasta 29.05   (Lunes 2:00 pm - 6:00
 ## Semana 5 - Marzo 6 - 11 - ¿Cómo reportar los resultados?   (Frees, 2011) 
 
 - Tópicos:
-  - ¿Cómo realizar la revisión de literatura?
+  - [Revisión de literatura - un repaso](https://www.wiley.com/en-us/network/publishing/research-publishing/writing-and-conducting-research/writing-a-literature-review-six-steps-to-get-you-from-start-to-finish)
   - ¿Cómo reportar los resultados?
   
 - Ejercicio práctico:
