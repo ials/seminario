@@ -72,7 +72,7 @@ Este es un curso que se dictará desde 06.02 hasta 29.05   (Lunes 2:00 pm - 6:00
 
 ## Semana 6 - Marzo 13 - 18 - Escribir un manuscrito es un viaje en una montaña rusa (Janke et al., 2020)
 
-Tópicos:
+[Tópicos](https://drive.google.com/file/d/1XzTMRdv9XOiManxBirzcKKw_kodDSgSf/view?usp=sharing):
   - La escritura académica es un viaje emocional
   - Autoconciencia y escritura
   
