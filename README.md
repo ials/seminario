@@ -72,7 +72,17 @@ Este es un curso que se dictará desde 06.02 hasta 29.05   (Lunes 2:00 pm - 6:00
 
 ## Semana 6 - Marzo 13 - 18 - Escribir un manuscrito es un viaje en una montaña rusa (Janke et al., 2020)
 
-TBW
+Tópicos:
+  - La escritura académica es un viaje emocional
+  - Autoconciencia y escritura
+  
+- Ejercicio práctico:
+  - Traiga a la clase del 13 de marzo la carpeta con todas las versiones de su manuscrito
+  -	Revise los avances del manuscrito que le sea asignado
+
+- Trabajo independiente:
+  - Edite & Revise la versión de su manuscrito que entregará el 20 de marzo
+  - No olvide que esa versión debe estar aprobada por el director de su tesis
 
 ## Semana 7 - Marzo 20 - 25 - ¿Qué hay que hacer para que un manuscrito sea rechazado? (Hawkes et al., 2021)
 
