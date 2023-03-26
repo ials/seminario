@@ -86,11 +86,20 @@ Este es un curso que se dictará desde 06.02 hasta 29.05   (Lunes 2:00 pm - 6:00
 
 ## Semana 7 - Marzo 20 - 25 - ¿Qué hay que hacer para que un manuscrito sea rechazado? (Hawkes et al., 2021)
 
-TBW
- 
+- There is no class
+  - Students submit the first part of their manuscripts **before 24th March at 12:00 m**
+    - Leave the print at Sala de Informatica inside a closed envelope
+    
+- Students keep doing their research and writing & revising the manuscript (i.e. the results section)
+
 ## Semana 8 - Marzo 27 - 31 - ¿Cómo escribir un manuscrito sobre aprendizaje de máquina? (Ferreira, 2021)
 
-TBW
+Topics:
+- [How not to get published](https://drive.google.com/file/d/14ILBrqHTN97evlJj72Z5JbbmLPfFJfIH/view?usp=sharing)
+- [How to write a machine learning paper](https://drive.google.com/file/d/1733LLPFL5sdUe00zII69pzzQ2xHKvY75/view?usp=sharing)
+
+Independent work:
+- Students keep doing their research and writing & revising the manuscript (i.e. the results section)
 
 ## Semana 9 - Abril 10 - 15 - Lineamientos para realizar investigación reproducible (Alston & Rick, 2021)
 
