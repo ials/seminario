@@ -101,13 +101,25 @@ Topics:
 Independent work:
 - Students keep doing their research and writing & revising the manuscript (i.e. the results section)
 
-## Semana 9 - Abril 10 - 15 - Lineamientos para realizar investigación reproducible (Alston & Rick, 2021)
+## Semana 9 - Abril 10 - 15 - Scientific writing revisited (Torres-Valladares, 2022)
 
-TBW
+Topics:
+- [Evaluation of draft manuscripts](https://drive.google.com/file/d/1trNxcz2EozRPfCsqyJEiKC4dkLDoj4mf/view?usp=sharing)
+- [The do’s and don’ts of scientific writing](https://drive.google.com/file/d/1R5cDZEA1cd321esdIQYDijfwDo2_KtNh/view?usp=sharing)
+
+Independent work:
+- Make a manuscript revision to improve its quality
+- Talk to your supervisor
+- Start writing your results
  
 ## Semana 10 - Abril 17 - 22 - Cinco maneras de hacer reproducible una investigación (Sholl, 2019)
 
-TBW
+Topics:
+- [Five ways to make reproducible research](https://drive.google.com/file/d/1WTeRGx83F7kTVUxhfgqitwFyozA4o1UX/view?usp=sharing)
+
+Independent work:
+- Meet your supervisor
+- Continue writing your results
 
 ## Semana 11 - Abril 24 - 29 - Problemas en la escritura de la sección de discusión (Wardhana et al., 2018)
 
