@@ -123,7 +123,16 @@ Independent work:
 
 ## Semana 11 - Abril 24 - 29 - Problemas en la escritura de la sección de discusión (Wardhana et al., 2018)
 
-TBW
+Topics:
+- [The discussion section](https://drive.google.com/file/d/1NDY8YtxL6NbOdkhHJgtheSbtwUWghnyF/view?usp=sharing)
+- [A peer review template](https://plos.org/resource/peer-review-template/)
+
+Independent work:
+- Meet your supervisor
+- Complete the results section
+- Write the discussion section
+
+[**PROGRAMA SUSTENTACION DE MANUSCRITOS**](https://drive.google.com/file/d/16GEwJehqaL3iIzvhZxByF-vIOYLoQo3K/view?usp=sharing)
 
 ## Semana 12 - Mayo  1 - 6 - Envío, revisión y post-publicación (Murphy & Bolderston, 2022)
 
