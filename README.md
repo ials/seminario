@@ -146,13 +146,14 @@ Independent work:
 
 **Envío de capítulo de resultados hasta el 17 de mayo**
 
-## Semana 15 - Mayo 22 - Primera jornada de sustentación
+## Semana 15 - Mayo 22 - Entrenamiento jornada de sustentación
 
 ****
 
-## Semana 16 - Mayo 29 - Segunda jornada de sustentación
+## Semana 16 - Mayo 29 - Jornada de sustentación
 
-****
+In case you need to remind what the evaluators suggested to improve your work:
+- [Recording](https://drive.google.com/file/d/10frKk1B3k76Jra7FfBVok7d-00ciQaQl/view?usp=sharing)
 
 
   
